@@ -1,6 +1,5 @@
 import { render, screen } from "@testing-library/react";
 import PointerInteractions from "./PointerInteractions";
-import user from "@testing-library/user-event";
 import userEvent from "@testing-library/user-event";
 
 describe("User-Event", () => {
